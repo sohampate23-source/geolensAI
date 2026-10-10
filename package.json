@@ -1,0 +1,23 @@
+{
+  "name": "geolens-ai",
+  "version": "1.0.0",
+  "description": "AI-Powered Satellite Imagery Search & Geospatial Intelligence Platform",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "backend": "python -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --reload",
+    "test": "python -m pytest backend/tests -v"
+  },
+  "keywords": [
+    "gis",
+    "satellite-imagery",
+    "geospatial",
+    "geopandas",
+    "spacenet",
+    "skyclip",
+    "openrouter"
+  ],
+  "author": "GeoLens AI Team",
+  "license": "Apache-2.0"
+}

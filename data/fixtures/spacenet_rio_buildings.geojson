@@ -1,0 +1,1087 @@
+{
+  "type": "FeatureCollection",
+  "name": "spacenet_rio_buildings",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.231004,
+              -22.909754
+            ],
+            [
+              -43.230731,
+              -22.909751
+            ],
+            [
+              -43.230734,
+              -22.909552
+            ],
+            [
+              -43.231007,
+              -22.909555
+            ],
+            [
+              -43.231004,
+              -22.909754
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_001",
+        "area_m2": 616.0,
+        "building_type": "commercial",
+        "floors": 4,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_002",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.230518,
+              -22.909658
+            ],
+            [
+              -43.230177,
+              -22.909654
+            ],
+            [
+              -43.23018,
+              -22.909428
+            ],
+            [
+              -43.230521,
+              -22.909432
+            ],
+            [
+              -43.230518,
+              -22.909658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_002",
+        "area_m2": 875.0,
+        "building_type": "commercial",
+        "floors": 6,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.229544,
+              -22.909557
+            ],
+            [
+              -43.229349,
+              -22.909555
+            ],
+            [
+              -43.229351,
+              -22.909419
+            ],
+            [
+              -43.229546,
+              -22.909421
+            ],
+            [
+              -43.229544,
+              -22.909557
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_003",
+        "area_m2": 300.0,
+        "building_type": "residential",
+        "floors": 3,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_004",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.228861,
+              -22.909639
+            ],
+            [
+              -43.228471,
+              -22.909635
+            ],
+            [
+              -43.228475,
+              -22.909364
+            ],
+            [
+              -43.228864,
+              -22.909368
+            ],
+            [
+              -43.228861,
+              -22.909639
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_004",
+        "area_m2": 1200.0,
+        "building_type": "commercial",
+        "floors": 5,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_005",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.228276,
+              -22.909633
+            ],
+            [
+              -43.228101,
+              -22.909631
+            ],
+            [
+              -43.228103,
+              -22.909468
+            ],
+            [
+              -43.228278,
+              -22.90947
+            ],
+            [
+              -43.228276,
+              -22.909633
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_005",
+        "area_m2": 324.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "hipped",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_006",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.226341,
+              -22.908528
+            ],
+            [
+              -43.225902,
+              -22.908523
+            ],
+            [
+              -43.225906,
+              -22.908207
+            ],
+            [
+              -43.226345,
+              -22.908212
+            ],
+            [
+              -43.226341,
+              -22.908528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_006",
+        "area_m2": 1575.0,
+        "building_type": "industrial",
+        "floors": 2,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_007",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.225566,
+              -22.908158
+            ],
+            [
+              -43.225078,
+              -22.908152
+            ],
+            [
+              -43.225083,
+              -22.907791
+            ],
+            [
+              -43.225571,
+              -22.907797
+            ],
+            [
+              -43.225566,
+              -22.908158
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_007",
+        "area_m2": 2000.0,
+        "building_type": "industrial",
+        "floors": 1,
+        "rooftop_type": "metal",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_008",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.224693,
+              -22.907787
+            ],
+            [
+              -43.224323,
+              -22.907783
+            ],
+            [
+              -43.224326,
+              -22.907512
+            ],
+            [
+              -43.224697,
+              -22.907516
+            ],
+            [
+              -43.224693,
+              -22.907787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_008",
+        "area_m2": 1140.0,
+        "building_type": "industrial",
+        "floors": 2,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_009",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.233401,
+              -22.912851
+            ],
+            [
+              -43.233186,
+              -22.912848
+            ],
+            [
+              -43.233189,
+              -22.912686
+            ],
+            [
+              -43.233403,
+              -22.912688
+            ],
+            [
+              -43.233401,
+              -22.912851
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_009",
+        "area_m2": 396.0,
+        "building_type": "residential",
+        "floors": 3,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_010",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.232427,
+              -22.912749
+            ],
+            [
+              -43.232115,
+              -22.912746
+            ],
+            [
+              -43.232118,
+              -22.912547
+            ],
+            [
+              -43.23243,
+              -22.912551
+            ],
+            [
+              -43.232427,
+              -22.912749
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_010",
+        "area_m2": 704.0,
+        "building_type": "commercial",
+        "floors": 4,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_011",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.230966,
+              -22.912643
+            ],
+            [
+              -43.230733,
+              -22.91264
+            ],
+            [
+              -43.230735,
+              -22.91246
+            ],
+            [
+              -43.230969,
+              -22.912462
+            ],
+            [
+              -43.230966,
+              -22.912643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_011",
+        "area_m2": 480.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "hipped",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_012",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.229978,
+              -22.913716
+            ],
+            [
+              -43.229685,
+              -22.913712
+            ],
+            [
+              -43.229688,
+              -22.913487
+            ],
+            [
+              -43.229981,
+              -22.91349
+            ],
+            [
+              -43.229978,
+              -22.913716
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_012",
+        "area_m2": 750.0,
+        "building_type": "residential",
+        "floors": 5,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_013",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.229199,
+              -22.913617
+            ],
+            [
+              -43.228926,
+              -22.913614
+            ],
+            [
+              -43.22893,
+              -22.913361
+            ],
+            [
+              -43.229202,
+              -22.913364
+            ],
+            [
+              -43.229199,
+              -22.913617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_013",
+        "area_m2": 784.0,
+        "building_type": "commercial",
+        "floors": 4,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_014",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.232283,
+              -22.908865
+            ],
+            [
+              -43.232127,
+              -22.908863
+            ],
+            [
+              -43.232128,
+              -22.908737
+            ],
+            [
+              -43.232284,
+              -22.908738
+            ],
+            [
+              -43.232283,
+              -22.908865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_014",
+        "area_m2": 224.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_015",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.232286,
+              -22.908594
+            ],
+            [
+              -43.232111,
+              -22.908592
+            ],
+            [
+              -43.232113,
+              -22.908456
+            ],
+            [
+              -43.232288,
+              -22.908458
+            ],
+            [
+              -43.232286,
+              -22.908594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_015",
+        "area_m2": 270.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_016",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.23229,
+              -22.908323
+            ],
+            [
+              -43.232144,
+              -22.908321
+            ],
+            [
+              -43.232145,
+              -22.908186
+            ],
+            [
+              -43.232292,
+              -22.908188
+            ],
+            [
+              -43.23229,
+              -22.908323
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_016",
+        "area_m2": 225.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_017",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.232293,
+              -22.908052
+            ],
+            [
+              -43.232128,
+              -22.90805
+            ],
+            [
+              -43.232129,
+              -22.907906
+            ],
+            [
+              -43.232295,
+              -22.907908
+            ],
+            [
+              -43.232293,
+              -22.908052
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_017",
+        "area_m2": 272.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_018",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.23054,
+              -22.907942
+            ],
+            [
+              -43.230189,
+              -22.907938
+            ],
+            [
+              -43.230192,
+              -22.907686
+            ],
+            [
+              -43.230543,
+              -22.907689
+            ],
+            [
+              -43.23054,
+              -22.907942
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_018",
+        "area_m2": 1008.0,
+        "building_type": "educational",
+        "floors": 3,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_019",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.229275,
+              -22.907748
+            ],
+            [
+              -43.228866,
+              -22.907743
+            ],
+            [
+              -43.22887,
+              -22.907454
+            ],
+            [
+              -43.229279,
+              -22.907459
+            ],
+            [
+              -43.229275,
+              -22.907748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_019",
+        "area_m2": 1344.0,
+        "building_type": "educational",
+        "floors": 3,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_020",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.234431,
+              -22.908618
+            ],
+            [
+              -43.234236,
+              -22.908616
+            ],
+            [
+              -43.234238,
+              -22.908453
+            ],
+            [
+              -43.234433,
+              -22.908455
+            ],
+            [
+              -43.234431,
+              -22.908618
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_020",
+        "area_m2": 360.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_021",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.234836,
+              -22.914944
+            ],
+            [
+              -43.234583,
+              -22.914941
+            ],
+            [
+              -43.234585,
+              -22.91476
+            ],
+            [
+              -43.234838,
+              -22.914763
+            ],
+            [
+              -43.234836,
+              -22.914944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_021",
+        "area_m2": 520.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_022",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.230934,
+              -22.915171
+            ],
+            [
+              -43.230495,
+              -22.915166
+            ],
+            [
+              -43.230499,
+              -22.914895
+            ],
+            [
+              -43.230937,
+              -22.9149
+            ],
+            [
+              -43.230934,
+              -22.915171
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_022",
+        "area_m2": 1350.0,
+        "building_type": "sports",
+        "floors": 1,
+        "rooftop_type": "curved",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_023",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.228985,
+              -22.915059
+            ],
+            [
+              -43.228615,
+              -22.915055
+            ],
+            [
+              -43.228618,
+              -22.914802
+            ],
+            [
+              -43.228989,
+              -22.914806
+            ],
+            [
+              -43.228985,
+              -22.915059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_023",
+        "area_m2": 1064.0,
+        "building_type": "commercial",
+        "floors": 3,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_024",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.226072,
+              -22.914214
+            ],
+            [
+              -43.225857,
+              -22.914211
+            ],
+            [
+              -43.22586,
+              -22.914031
+            ],
+            [
+              -43.226074,
+              -22.914033
+            ],
+            [
+              -43.226072,
+              -22.914214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_024",
+        "area_m2": 440.0,
+        "building_type": "residential",
+        "floors": 2,
+        "rooftop_type": "gabled",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet_rio_bldg_025",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.224613,
+              -22.913927
+            ],
+            [
+              -43.22437,
+              -22.913924
+            ],
+            [
+              -43.224372,
+              -22.913725
+            ],
+            [
+              -43.224616,
+              -22.913728
+            ],
+            [
+              -43.224613,
+              -22.913927
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spacenet_rio_bldg_025",
+        "area_m2": 550.0,
+        "building_type": "residential",
+        "floors": 3,
+        "rooftop_type": "flat",
+        "tile_id": "7500_2000",
+        "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+        "is_reference_label": true,
+        "study_area": "Rio de Janeiro, Brazil",
+        "data_provenance": "SpaceNet AOI_1_Rio Reference Labels"
+      }
+    }
+  ]
+}

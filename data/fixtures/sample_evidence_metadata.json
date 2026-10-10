@@ -1,0 +1,427 @@
+[
+  {
+    "feature_id": "spacenet_rio_bldg_001",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.231007,
+      -22.909754,
+      -43.230731,
+      -22.909552
+    ],
+    "label": "Commercial Building (flat roof)",
+    "measured_area_m2": 616.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_001.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_002",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.230521,
+      -22.909658,
+      -43.230177,
+      -22.909428
+    ],
+    "label": "Commercial Building (flat roof)",
+    "measured_area_m2": 875.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_002.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_003",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.229546,
+      -22.909557,
+      -43.229349,
+      -22.909419
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 300.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_003.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_004",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.228864,
+      -22.909639,
+      -43.228471,
+      -22.909364
+    ],
+    "label": "Commercial Building (flat roof)",
+    "measured_area_m2": 1200.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_004.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_005",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.228278,
+      -22.909633,
+      -43.228101,
+      -22.909468
+    ],
+    "label": "Residential Building (hipped roof)",
+    "measured_area_m2": 324.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_005.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_006",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.226345,
+      -22.908528,
+      -43.225902,
+      -22.908207
+    ],
+    "label": "Industrial Building (flat roof)",
+    "measured_area_m2": 1575.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_006.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_007",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.225571,
+      -22.908158,
+      -43.225078,
+      -22.907791
+    ],
+    "label": "Industrial Building (metal roof)",
+    "measured_area_m2": 2000.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_007.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_008",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.224697,
+      -22.907787,
+      -43.224323,
+      -22.907512
+    ],
+    "label": "Industrial Building (flat roof)",
+    "measured_area_m2": 1140.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_008.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_009",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.233403,
+      -22.912851,
+      -43.233186,
+      -22.912686
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 396.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_009.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_010",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.23243,
+      -22.912749,
+      -43.232115,
+      -22.912547
+    ],
+    "label": "Commercial Building (flat roof)",
+    "measured_area_m2": 704.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_010.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_011",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.230969,
+      -22.912643,
+      -43.230733,
+      -22.91246
+    ],
+    "label": "Residential Building (hipped roof)",
+    "measured_area_m2": 480.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_011.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_012",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.229981,
+      -22.913716,
+      -43.229685,
+      -22.913487
+    ],
+    "label": "Residential Building (flat roof)",
+    "measured_area_m2": 750.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_012.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_013",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.229202,
+      -22.913617,
+      -43.228926,
+      -22.913361
+    ],
+    "label": "Commercial Building (flat roof)",
+    "measured_area_m2": 784.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_013.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_014",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.232284,
+      -22.908865,
+      -43.232127,
+      -22.908737
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 224.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_014.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_015",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.232288,
+      -22.908594,
+      -43.232111,
+      -22.908456
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 270.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_015.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_016",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.232292,
+      -22.908323,
+      -43.232144,
+      -22.908186
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 225.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_016.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_017",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.232295,
+      -22.908052,
+      -43.232128,
+      -22.907906
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 272.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_017.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_018",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.230543,
+      -22.907942,
+      -43.230189,
+      -22.907686
+    ],
+    "label": "Educational Building (flat roof)",
+    "measured_area_m2": 1008.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_018.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_019",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.229279,
+      -22.907748,
+      -43.228866,
+      -22.907454
+    ],
+    "label": "Educational Building (flat roof)",
+    "measured_area_m2": 1344.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_019.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_020",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.234433,
+      -22.908618,
+      -43.234236,
+      -22.908453
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 360.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_020.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_021",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.234838,
+      -22.914944,
+      -43.234583,
+      -22.91476
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 520.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_021.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_022",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.230937,
+      -22.915171,
+      -43.230495,
+      -22.914895
+    ],
+    "label": "Sports Building (curved roof)",
+    "measured_area_m2": 1350.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_022.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_023",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.228989,
+      -22.915059,
+      -43.228615,
+      -22.914802
+    ],
+    "label": "Commercial Building (flat roof)",
+    "measured_area_m2": 1064.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_023.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_024",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.226074,
+      -22.914214,
+      -43.225857,
+      -22.914031
+    ],
+    "label": "Residential Building (gabled roof)",
+    "measured_area_m2": 440.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_024.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  },
+  {
+    "feature_id": "spacenet_rio_bldg_025",
+    "tile_id": "7500_2000",
+    "dataset": "SpaceNet Buildings v1 (AOI_1_Rio)",
+    "bounds": [
+      -43.224616,
+      -22.913927,
+      -43.22437,
+      -22.913725
+    ],
+    "label": "Residential Building (flat roof)",
+    "measured_area_m2": 550.0,
+    "has_satellite_crop": true,
+    "crop_thumbnail_url": "/api/crops/spacenet_rio_bldg_025.png",
+    "source_provenance": "SpaceNet v1 WorldView-2 0.5m imagery tile 7500_2000",
+    "model_confidence": null
+  }
+]
